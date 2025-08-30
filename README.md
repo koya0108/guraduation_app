@@ -69,4 +69,3 @@
 - simple_form
 - simple_calendar
 - prawn/wicked_pdf:PDF出力
-  
