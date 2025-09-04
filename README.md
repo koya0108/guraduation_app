@@ -101,6 +101,9 @@
 - ActionMailer
 - SecureRandom(招待機能のToken管理)
 
+### ER図
+https://drive.google.com/file/d/10_OLWKsBMn0iNOB61sFbeq-U1oAyj97v/view?usp=sharing
+
 ### 画面遷移図
 Figma：
 (画面デザイン)https://www.figma.com/design/dwfXBf5STVf1RRq4me65RP/%E7%94%BB%E9%9D%A2%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3?node-id=0-1&t=3psAY48AqNjUraOt-1
