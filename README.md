@@ -102,7 +102,9 @@
 - SecureRandom(招待機能のToken管理)
 
 ### 画面遷移図
-Figma：https://www.figma.com/files/team/1541707923313849220/project/439874672/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?fuid=1534487141311269457
+Figma：
+(画面デザイン)https://www.figma.com/design/dwfXBf5STVf1RRq4me65RP/%E7%94%BB%E9%9D%A2%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3?node-id=0-1&t=3psAY48AqNjUraOt-1
+(画面遷移図)https://www.figma.com/design/GdxGtiIdg5eUcomqoHoReE/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3%E2%91%A0?node-id=0-1&t=EL8hDdhKk3jDtkwM-1
 
 ### READMEに記載した機能
 - [x] ユーザー登録機能
