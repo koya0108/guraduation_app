@@ -101,29 +101,10 @@
 - ActionMailer
 - SecureRandom(招待機能のToken管理)
 
+### ER図
+https://drive.google.com/file/d/10_OLWKsBMn0iNOB61sFbeq-U1oAyj97v/view?usp=sharing
+
 ### 画面遷移図
 Figma：
 (画面デザイン)https://www.figma.com/design/dwfXBf5STVf1RRq4me65RP/%E7%94%BB%E9%9D%A2%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3?node-id=0-1&t=3psAY48AqNjUraOt-1
 (画面遷移図)https://www.figma.com/design/GdxGtiIdg5eUcomqoHoReE/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3%E2%91%A0?node-id=0-1&t=EL8hDdhKk3jDtkwM-1
-
-### READMEに記載した機能
-- [x] ユーザー登録機能
-- [x] ログイン機能
-- [x] パスワード変更機能
-- [x] メールアドレス変更機能
-- [x] スタッフ検索機能
-- [x] ページネーション
-
-
-### 未ログインでも閲覧または利用できるページ
-以下の項目は適切に未ログインでも閲覧または利用できる画面遷移になっているか？
-- 未ログインでも利用できるページは存在しない(全機能ログイン必須)
-
-### メールアドレス・パスワード変更確認項目
-直接変更できるものではなく、一旦メールなどを介して専用のページで変更する画面遷移になっているか？
-- [x] メールアドレス
-- [x] パスワード
-
-### 各画面の作り込み
-画面遷移だけでなく、必要なボタンやフォームが確認できるくらい作り込めているか？
-- [x] 作り込みはある程度完了している（Figmaを見て画面の作成ができる状態にある）
